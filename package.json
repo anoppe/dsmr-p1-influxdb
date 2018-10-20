@@ -1,0 +1,25 @@
+{
+  "name": "dsmr-p1-influxdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "influx": "^5.0.7",
+    "serialport": "^7.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com"
+  },
+  "keywords": [
+    "dsmr",
+    "p1",
+    "influxdb",
+    "serial"
+  ],
+  "author": "Auke Noppe <auke@noppe.nl> (https://github.com/anoppe)",
+  "license": "MIT"
+}
